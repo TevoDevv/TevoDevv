@@ -1,16 +1,51 @@
-## Hi there 👋
+# Bem vindo(a) ao meu Github!🤙🏻
 
-<!--
-**TevoDevv/TevoDevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="giphy.gif" width="250px" align="right">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Mais sobre mim👨🏻‍💻
+
+
+
+##### Sou um dev iniciante que busca uma carreira profissional na área. Aberto para conversa e para novos aprendizados.
+
+#### - Aprendendo sobre Back-End🙏🏻
+
+#### - Tecnico em Info para a Internet 💻
+
+
+
+<div>
+  
+  ![Python](https://img.icons8.com/color/48/000000/python.png) </span>&nbsp;&nbsp;&nbsp;<span>     ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
+</div>
+
+
+
+---
+
+
+## Contatos: 
+
+<div>
+  
+<a href = "https://instagram.com/tevo.sc">
+    
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+  
+</a> 
+<a href="https://www.linkedin.com/in/estêvão-cordeiro-649b24324" target="_blank">
+  
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+  
+</a>
+
+</div>
+  
+---
+
+## Segue para fortalecer💪🏻
+
+
+  
