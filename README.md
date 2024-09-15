@@ -1,53 +1,49 @@
-# Bem vindo(a) ao meu Github!🤙🏻
+# Bem vindo(a) ao meu Github! 🤙🏻
 
 <img src="giphy.gif" width="250px" align="right">
 
+### Mais sobre mim 👨🏻‍💻
+
+Sou um dev iniciante que busca uma carreira profissional na área. Estou aberto para conversas e novos aprendizados.  
+Pode parecer que estou focando em várias áreas, mas estou explorando para decidir em qual me especializar!
+
+#### - Aprendendo sobre Back-End 🙏🏻
+
+#### - Estudando HTML, CSS e JavaScript para me aprofundar mais na programação e fazer networking 🫱🏻‍🫲🏾
+
+#### - Técnico em Informática para a Internet 💻
 
 
-### Mais sobre mim👨🏻‍💻
 
+### Linguagens:
 
+<div align="center">
 
-##### Sou um dev iniciante que busca uma carreira profissional na área. Aberto para conversa e para novos aprendizados.
-
-#### - Aprendendo sobre Back-End🙏🏻
-
-#### - Tecnico em Info para a Internet 💻
-
-
-
-<div>
-  
-  ![Python](https://img.icons8.com/color/48/000000/python.png) </span>&nbsp;&nbsp;&nbsp;<span>     ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML">
-
+  ![Python](https://img.icons8.com/color/48/000000/python.png) 
+  ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) 
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"> 
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML">
 
 </div>
 
-
-
 ---
 
+### Contatos:
 
-## Contatos: 
-
-<div>
-  
-<a href = "https://instagram.com/tevo.sc">
+<div align="center">
+  <a href="https://instagram.com/tevo.sc" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram">
     
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+  </a>
   
-</a> 
-<a href="https://www.linkedin.com/in/estêvão-cordeiro-649b24324" target="_blank">
-  
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-  
-</a>
-
+  <a href="https://www.linkedin.com/in/estêvão-cordeiro-649b24324" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn">
+    
+  </a>
 </div>
-  
+
 ---
 
-## Segue para fortalecer💪🏻
+# Segue para fortalecer 💪🏻
 
 
-  
